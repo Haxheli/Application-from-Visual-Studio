@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\My apps\Wannacry\Wannacry\bin\Release\Wannacry.exe.config
+C:\Users\USER\Desktop\My apps\Wannacry\Wannacry\bin\Release\Wannacry.exe.manifest
+C:\Users\USER\Desktop\My apps\Wannacry\Wannacry\bin\Release\Wannacry.application
+C:\Users\USER\Desktop\My apps\Wannacry\Wannacry\bin\Release\Wannacry.exe
+C:\Users\USER\Desktop\My apps\Wannacry\Wannacry\bin\Release\Wannacry.pdb
+C:\Users\USER\Desktop\My apps\Wannacry\Wannacry\obj\Release\Wannacry.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\My apps\Wannacry\Wannacry\obj\Release\Wannacry.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\My apps\Wannacry\Wannacry\obj\Release\Wannacry.Properties.Resources.resources
+C:\Users\USER\Desktop\My apps\Wannacry\Wannacry\obj\Release\Wannacry.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\My apps\Wannacry\Wannacry\obj\Release\Wannacry.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\My apps\Wannacry\Wannacry\obj\Release\Wannacry.TrustInfo.xml
+C:\Users\USER\Desktop\My apps\Wannacry\Wannacry\obj\Release\Wannacry.exe.manifest
+C:\Users\USER\Desktop\My apps\Wannacry\Wannacry\obj\Release\Wannacry.application
+C:\Users\USER\Desktop\My apps\Wannacry\Wannacry\obj\Release\Wannacry.exe
+C:\Users\USER\Desktop\My apps\Wannacry\Wannacry\obj\Release\Wannacry.pdb
