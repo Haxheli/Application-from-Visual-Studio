@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\users\USER\desktop\My apps\Windows Service Controller\Windows Service Controller\bin\release\Windows Service Controller.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\users\USER\desktop\My apps\Windows Service Controller\Windows Service Controller\bin\release\Windows Service Controller.InstallLog
+   assemblypath = C:\users\USER\desktop\My apps\Windows Service Controller\Windows Service Controller\bin\release\Windows Service Controller.exe
+Installing service Windows Service Controller...
+Service Windows Service Controller has been successfully installed.
+Creating EventLog source Windows Service Controller in log Application...
+Committing assembly 'C:\users\USER\desktop\My apps\Windows Service Controller\Windows Service Controller\bin\release\Windows Service Controller.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\users\USER\desktop\My apps\Windows Service Controller\Windows Service Controller\bin\release\Windows Service Controller.InstallLog
+   assemblypath = C:\users\USER\desktop\My apps\Windows Service Controller\Windows Service Controller\bin\release\Windows Service Controller.exe

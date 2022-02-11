@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\My apps\Windows Service Controller\Windows Service Controller\bin\Debug\Windows Service Controller.exe.config
+C:\Users\USER\Desktop\My apps\Windows Service Controller\Windows Service Controller\bin\Debug\Windows Service Controller.exe
+C:\Users\USER\Desktop\My apps\Windows Service Controller\Windows Service Controller\bin\Debug\Windows Service Controller.pdb
+C:\Users\USER\Desktop\My apps\Windows Service Controller\Windows Service Controller\obj\Debug\Windows Service Controller.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\My apps\Windows Service Controller\Windows Service Controller\obj\Debug\Windows Service Controller.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\My apps\Windows Service Controller\Windows Service Controller\obj\Debug\Windows_Service_Controller.Service1.resources
+C:\Users\USER\Desktop\My apps\Windows Service Controller\Windows Service Controller\obj\Debug\Windows Service Controller.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\My apps\Windows Service Controller\Windows Service Controller\obj\Debug\Windows Service Controller.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\My apps\Windows Service Controller\Windows Service Controller\obj\Debug\Windows Service Controller.exe
+C:\Users\USER\Desktop\My apps\Windows Service Controller\Windows Service Controller\obj\Debug\Windows Service Controller.pdb
